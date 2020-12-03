@@ -3,7 +3,7 @@
 	"description": "image upload and validate by exif",
 	"version": "1.0.0",
 	"type": "library",
-	"license": "MIT",
+	"license": "LGPL-2.1",
 	"authors": [
 		{
 			"name": "Exinfinite Chen",
