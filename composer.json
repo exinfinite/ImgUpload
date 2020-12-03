@@ -1,0 +1,30 @@
+{
+	"name": "exinfinite/img-upload",
+	"description": "image upload and validate by exif",
+	"version": "1.0.0",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Exinfinite Chen",
+			"email": "chen.min.home@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"config": {
+		"process-timeout": 1800,
+		"vendor-dir": "vendors",
+		"optimize-autoloader": true,
+		"sort-packages": true
+	},
+	"minimum-stability": "stable",
+	"autoload": {
+		"psr-4": {
+			"Exinfinite\\ImgUpload\\": "src/"
+		}
+	},
+	"require": {
+		"php": ">=5.6",
+		"tightenco/collect": "^5.4"
+	}
+}
