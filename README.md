@@ -1,9 +1,9 @@
 # ImgUpload
 
-![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/exinfinite/ImgUpload)
+![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/exinfinite/img-upload)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/exinfinite/ImgUpload)
-![Packagist Version](https://img.shields.io/packagist/v/exinfinite/ImgUpload)
-![Packagist Downloads](https://img.shields.io/packagist/dt/exinfinite/ImgUpload)
+![Packagist Version](https://img.shields.io/packagist/v/exinfinite/img-upload)
+![Packagist Downloads](https://img.shields.io/packagist/dt/exinfinite/img-upload)
 ![GitHub](https://img.shields.io/github/license/exinfinite/ImgUpload)
 
 > 需要gd、exif extension
